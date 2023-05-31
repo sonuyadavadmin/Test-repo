@@ -1,0 +1,63 @@
+{
+    "result": [{
+            "id": "1497",
+            "UID": "37293",
+            "job_title": "it staff 2",
+            "detail": "ztest 2",
+            "salary": "10000"            
+        }, {
+            "id": "1498",
+            "UID": "37377",
+            "job_title": "Admin staff",
+            "detail": "",
+            "salary": "10000"           
+        }, {
+            "id": "915",
+            "UID": "216",
+            "job_title": "IT Specialist",
+            "detail": "a great job for the right candidate",
+            "salary": "100000"            
+        }, {
+            "id": "919",
+            "UID": "216",
+            "job_title": "Happy Days Manager",
+            "detail": "This is the job description, This is typed here to ensure it pulls through on the",
+            "salary": "50000"            
+        }, {
+            "id": "921",
+            "UID": "127",
+            "job_title": "test 54",
+            "detail": "",
+            "salary": "0"            
+        }, {
+            "id": "923",
+            "UID": "216",
+            "job_title": "Pink Party",
+            "detail": "testing this job",
+            "salary": "0"           
+        }, {
+            "id": "925",
+            "UID": "130",
+            "job_title": "Payload Specialist",
+            "detail": "Details everywhere in relatioon to this job details details",
+            "salary": "10000"            
+        }, {
+            "id": "926",
+            "UID": "128",
+            "job_title": "Office Administrator",
+            "detail": "Details of the Job will display here.",
+            "salary": "15000"            
+        }, {
+            "id": "1188",
+            "UID": "216",
+            "job_title": "Head Chef",
+            "detail": "Head Chef needed for busy restaurant",
+            "salary": "10000"            
+        }, {
+            "id": "1199",
+            "UID": "21854",
+            "job_title": "Adminstration Manager",
+            "detail": "Job for Admin purposes",
+            "salary": "9000"            
+        }]
+}
